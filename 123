@@ -7,3 +7,5 @@ git remote add origin https://github.com/abineshkrishna/123.git
 git push -u origin main
 git push -d
 end
+go dos .in
+end
